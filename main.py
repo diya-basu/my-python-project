@@ -1,1 +1,2 @@
-print("Hello, GitHub!")
+def hello():
+  return "Hello,GitHub!"
